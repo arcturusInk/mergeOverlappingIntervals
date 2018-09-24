@@ -4,8 +4,8 @@ Given a collection of intervals, merge all overlapping intervals. For example, G
 
 
  Definition for an interval:
- 
- ``` public class Interval {
+ ``` 
+ public class Interval {
       int start;
       int end;
       Interval() { start = 0; end = 0; }
