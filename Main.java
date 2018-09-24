@@ -5,7 +5,7 @@ import java.util.*;
  *
  * @author Swati
  */
-public class Lala {
+public class Main {
 
   public static String[][] businessHours(String[][] intervals) {
     //taking care of edge cases
