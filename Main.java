@@ -1,6 +1,3 @@
-
-package lala;
-
 import java.io.*;
 import java.util.*;
 
